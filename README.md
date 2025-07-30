@@ -8,8 +8,8 @@ Atliq Grands faced challenges with fragmented data, a lack of real-time insights
 Solution:- 
 The project delivers an interactive Power BI dashboard (Revenue Insights in Hospitality Domain.pbix) that:
 
-1.Integrates diverse datasets (e.g., dim_date.csv, dim_hotels.csv, fact_bookings.csv).
-2.Calculates essential hospitality metrics (Revenue, ARR, Occupancy, RevPAR, Cancellations, etc.).
+1.Integrates diverse datasets.
+2.Calculates essential hospitality metrics (Revenue, ADR, Occupancy, RevPAR, Cancellations, etc.).
 3.Visualizes data for dynamic exploration and strategic decision-making.
 
 Key Insights:- 
