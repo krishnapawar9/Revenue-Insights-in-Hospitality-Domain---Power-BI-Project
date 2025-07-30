@@ -5,6 +5,7 @@ The hospitality industry, especially after recent global events, faces dynamic c
 
 Problem Statement:-
 Atliq Grands, a leading player in the hospitality sector, needed a comprehensive solution to understand and optimize its revenue performance. Key challenges included:
+
 1.Fragmented Data
 2.Lack of Real-time Insights
 3.Ineffective Decision-Making
@@ -12,6 +13,7 @@ Atliq Grands, a leading player in the hospitality sector, needed a comprehensive
 
 Solution:-
 This project delivers an interactive Power BI dashboard designed to provide a holistic view of Atliq Grands' revenue landscape. The solution encompasses:
+
 1.Data Collection and Preparation
 2.Data Modeling-
 Establishing robust relationships between dimension and fact tables within Power BI.
@@ -26,6 +28,7 @@ Allowing users to filter data by date, hotel, room type, and other relevant dime
 
 Insights Derived:-
 The Power BI dashboard enables Atliq Grands to uncover critical insights, leading to data-driven strategic decisions:
+
 1.Revenue Performance Trends
 2.Hotel Performance Comparison
 3.Room Type Analysis
